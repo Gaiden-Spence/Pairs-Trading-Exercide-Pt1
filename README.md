@@ -1,4 +1,4 @@
-# Pairs-Trading-Exercide-Pt1
+# Pairs-Trading-Exercise-Pt1
 A basic approach to pairs trading using etf's of FLMX and EWW
 
 This Notebook should never be considered as investing guidance or advice in any capacity whatsoever. It is solely intended to help readers discover intriguing theories about markets that they may or may not want to explore on their own.
